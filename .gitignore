@@ -3,8 +3,3 @@
 .DS_Store
 *.pyc
 *.iml
-build
-test_results.html
-artifacts
-aws_security_test.egg-info
-dist
